@@ -1,0 +1,16 @@
+<% _.each(solution, function (eachsolution) { %>
+	<li>
+	    <div class="flight-icons air">
+	    </div>
+	    <div class="flight-details">
+	        <div class="time"><%= eachsolution.flights.flight.segments.segment.departure_date_time %> - <%= eachsolution.flights.flight.segments.segment.arrival_date_time %></div>
+	        <div class="name"><%= eachsolution.flights.flight.segments.segment.airline %></div>
+	        <div class="duration"> <%= eachsolution.flights.flight.segments.segment.duration %> </div>
+	    </div>
+	            <div class="trip-fare">Rs. <%= eachsolution.pricing_summary.total_fare %></div>
+	    <div class="fare"><%= eachsolution.pricing_summary.total_fare %></div>
+	    <div class="departs"><%= eachsolution.flights.flight.segments.segment.departure_date_time %></div>
+	    <div class="arrives"><%= eachsolution.flights.flight.segments.segment.arrival_date_time %></div>
+	    <div class="cb"><span class="cbid">2</span></div>
+	</li>
+<% }); %>
