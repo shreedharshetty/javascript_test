@@ -1,13 +1,13 @@
 define(function () {
 
-    var ajax = {
+    var $ = {
         
-        createXHR : function() {
+        XHR : function() {
                 return new XMLHttpRequest();
         },
 
-        makeGetRequest : function(url, callback) {
-            var xhr = this.createXHR();
+        Get : function(url, callback) {
+            var xhr = this.XHR();
             
             xhr.open("GET", url);
 
@@ -26,5 +26,5 @@ define(function () {
             xhr.send(null);
         }
     }    
-    return ajax;
+    return $;
 });

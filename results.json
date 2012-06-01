@@ -26,76 +26,9 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"2",
-                           "fare_basis_code":"H0BOMCCU",
-                           "fare_key":"ZG9tZXN0aWMtNkUtUi1IMEJPTUNDVS0zNDMzNTc3MjUw",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"12.40"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2000.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"2350.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"50.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"2",
-                           "segment_index":"2",
-                           "pricing_info_index":"2",
-                           "booking_class":"R",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
             },
+               
             {
                "pricing_summary":{
                   "base_fare":"2000.00",
@@ -128,76 +61,9 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"3",
-                           "fare_basis_code":"H0BOMCCU",
-                           "fare_key":"ZG9tZXN0aWMtNkUtUi1IMEJPTUNDVS0zNDMzNTc3MjUw",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"12.40"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2000.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"2350.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"50.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"3",
-                           "segment_index":"3",
-                           "pricing_info_index":"3",
-                           "booking_class":"R",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
             },
+               
             {
                "pricing_summary":{
                   "base_fare":"2850.00",
@@ -221,76 +87,8 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"5",
-                           "fare_basis_code":"T2AP7D",
-                           "fare_key":"ZG9tZXN0aWMtSVQoUkVEKS1ULVQyQVA3RC0zNDMzNTc3MjUw",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"17.67"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2850.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"1650.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"5",
-                           "segment_index":"5",
-                           "pricing_info_index":"5",
-                           "booking_class":"T",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
-            },
+              },
             {
                "pricing_summary":{
                   "base_fare":"1850.00",
@@ -315,81 +113,8 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"6",
-                           "fare_basis_code":"IAP8",
-                           "fare_key":"ZG9tZXN0aWMtUzItSS1JQVA4LTM0MzM1NzcyNTA=",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"11.47"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "code":"ADMIN",
-                                    "amount":"-200.00"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"1850.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"200.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"6",
-                           "segment_index":"6",
-                           "pricing_info_index":"6",
-                           "booking_class":"I",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
-            },
+             },
             
             {
                "pricing_summary":{
@@ -412,79 +137,6 @@
                            "operating_airline":"IT",
                            "stops":"0",
                            "duration":"8700"
-                        }
-                     }
-                  }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"9",
-                           "fare_basis_code":"T2AP7D",
-                           "fare_key":"ZG9tZXN0aWMtSVQtVC1UMkFQN0QtMzQzMzU3NzI1MA==",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"17.67"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "code":"ADMIN",
-                                    "amount":"-142.50"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2850.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"9",
-                           "segment_index":"9",
-                           "pricing_info_index":"9",
-                           "booking_class":"T",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
                         }
                      }
                   }
@@ -513,74 +165,6 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"10",
-                           "fare_basis_code":"W2AP08D",
-                           "fare_key":"ZG9tZXN0aWMtOVctVy1XMkFQMDhELTM0MzM1NzcyNTA=",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"17.67"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2850.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"10",
-                           "segment_index":"10",
-                           "pricing_info_index":"10",
-                           "booking_class":"W",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
             },
             {
@@ -603,74 +187,6 @@
                            "operating_airline":"9W",
                            "stops":"0",
                            "duration":"9000"
-                        }
-                     }
-                  }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"11",
-                           "fare_basis_code":"W2AP08D",
-                           "fare_key":"ZG9tZXN0aWMtOVctVy1XMkFQMDhELTM0MzM1NzcyNTA=",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"17.67"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2850.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"11",
-                           "segment_index":"11",
-                           "pricing_info_index":"11",
-                           "booking_class":"W",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
                         }
                      }
                   }
@@ -699,77 +215,8 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"12",
-                           "fare_basis_code":"W2AP08D",
-                           "fare_key":"ZG9tZXN0aWMtOVctVy1XMkFQMDhELTM0MzM1NzcyNTA=",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"17.67"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2850.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"12",
-                           "segment_index":"12",
-                           "pricing_info_index":"12",
-                           "booking_class":"W",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
             },
-            
             {
                "pricing_summary":{
                   "base_fare":"8755.00",
@@ -790,74 +237,6 @@
                            "operating_airline":"IC",
                            "stops":"0",
                            "duration":"8700"
-                        }
-                     }
-                  }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"21",
-                           "fare_basis_code":"KFS",
-                           "fare_key":"ZG9tZXN0aWMtSUMtTS1LRlMtMzQzMzU3NzI1MA==",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"54.28"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"8755.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"21",
-                           "segment_index":"21",
-                           "pricing_info_index":"21",
-                           "booking_class":"M",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
                         }
                      }
                   }
@@ -891,74 +270,6 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"2",
-                           "fare_basis_code":"K0BOMCCU",
-                           "fare_key":"ZG9tZXN0aWMtNkUtUi1LMEJPTUNDVS0zNDMzNTc3MjUw",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"9.30"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"1500.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"2350.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"50.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"2",
-                           "segment_index":"2",
-                           "pricing_info_index":"2",
-                           "booking_class":"R",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
             },
             {
@@ -981,74 +292,6 @@
                            "operating_airline":"9W",
                            "stops":"0",
                            "duration":"9900"
-                        }
-                     }
-                  }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"7",
-                           "fare_basis_code":"W2AP15D",
-                           "fare_key":"ZG9tZXN0aWMtOVctVy1XMkFQMTVELTM0MzM1NzcyNTA=",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"14.57"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2350.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"7",
-                           "segment_index":"7",
-                           "pricing_info_index":"7",
-                           "booking_class":"W",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
                         }
                      }
                   }
@@ -1077,74 +320,6 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"8",
-                           "fare_basis_code":"W2AP15D",
-                           "fare_key":"ZG9tZXN0aWMtOVctVy1XMkFQMTVELTM0MzM1NzcyNTA=",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"14.57"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2350.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"8",
-                           "segment_index":"8",
-                           "pricing_info_index":"8",
-                           "booking_class":"W",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
             },
             {
@@ -1167,74 +342,6 @@
                            "operating_airline":"9W",
                            "stops":"0",
                            "duration":"9300"
-                        }
-                     }
-                  }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"9",
-                           "fare_basis_code":"W2AP15D",
-                           "fare_key":"ZG9tZXN0aWMtOVctVy1XMkFQMTVELTM0MzM1NzcyNTA=",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"14.57"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2350.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"9",
-                           "segment_index":"9",
-                           "pricing_info_index":"9",
-                           "booking_class":"W",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
                         }
                      }
                   }
@@ -1263,74 +370,6 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"10",
-                           "fare_basis_code":"W2AP15D",
-                           "fare_key":"ZG9tZXN0aWMtOVctVy1XMkFQMTVELTM0MzM1NzcyNTA=",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"14.57"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2350.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"10",
-                           "segment_index":"10",
-                           "pricing_info_index":"10",
-                           "booking_class":"W",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
             },
             {
@@ -1353,74 +392,6 @@
                            "operating_airline":"9W",
                            "stops":"0",
                            "duration":"9600"
-                        }
-                     }
-                  }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"11",
-                           "fare_basis_code":"W2AP15D",
-                           "fare_key":"ZG9tZXN0aWMtOVctVy1XMkFQMTVELTM0MzM1NzcyNTA=",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"14.57"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2350.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"11",
-                           "segment_index":"11",
-                           "pricing_info_index":"11",
-                           "booking_class":"W",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
                         }
                      }
                   }
@@ -1449,74 +420,6 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"12",
-                           "fare_basis_code":"W2AP15D",
-                           "fare_key":"ZG9tZXN0aWMtOVctVy1XMkFQMTVELTM0MzM1NzcyNTA=",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"14.57"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"2350.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"12",
-                           "segment_index":"12",
-                           "pricing_info_index":"12",
-                           "booking_class":"W",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
             },
             {
@@ -1539,74 +442,6 @@
                            "operating_airline":"IT(RED)",
                            "stops":"0",
                            "duration":"11400"
-                        }
-                     }
-                  }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"13",
-                           "fare_basis_code":"N2IP",
-                           "fare_key":"ZG9tZXN0aWMtSVQoUkVEKS1OLU4ySVAtMzQzMzU3NzI1MA==",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"28.33"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"4570.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"1650.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"150.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"13",
-                           "segment_index":"13",
-                           "pricing_info_index":"13",
-                           "booking_class":"N",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
                         }
                      }
                   }
@@ -1635,78 +470,9 @@
                         }
                      }
                   }
-               },
-               "pax_pricing_info_list":{
-                  "pax_pricing_info":{
-                     "pax_type":"ADT",
-                     "pricing_info_list":{
-                        "pricing_info":{
-                           "index":"19",
-                           "fare_basis_code":"KFS",
-                           "fare_key":"ZG9tZXN0aWMtSUMtTS1LRlMtMzQzMzU3NzI1MA==",
-                           "pricing_elements":{
-                              "pricing_element":[
-                                 {
-                                    "category":"TAX",
-                                    "code":"CLEARTRIP-SVC",
-                                    "amount":"54.28"
-                                 },
-                                 {
-                                    "category":"BF",
-                                    "amount":"8755.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"PSF",
-                                    "amount":"225.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YQ",
-                                    "amount":"3100.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"YR",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"TF",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"TAX",
-                                    "code":"AIRLINE-MSC",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"MKP",
-                                    "amount":"0.00"
-                                 },
-                                 {
-                                    "category":"DIS",
-                                    "amount":"0.00"
-                                 }
-                              ]
-                           }
-                        }
-                     },
-                     "booking_info_list":{
-                        "booking_info":{
-                           "index":"19",
-                           "segment_index":"19",
-                           "pricing_info_index":"19",
-                           "booking_class":"M",
-                           "cabin_type":"E",
-                           "ticket_type":"E"
-                        }
-                     }
-                  }
                }
             }
          ]
-      },
-      "xmlns":"http://www.cleartrip.com/air/"
+      }
    }
 }

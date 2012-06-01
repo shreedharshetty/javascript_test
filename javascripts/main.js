@@ -1,21 +1,22 @@
 require.config({
     baseUrl : "./javascripts",
     paths : {
-        "utils/underscore" : "utils/underscore-min"
+        "utils/underscore" : "utils/underscore-min",
+        "utils/ready" : "utils/doc_ready"
     }
 });
 
-require(["utils/script","utils/ajax","utils/selectors","text!templates/list.html", "utils/underscore"], function(script, ajaz, dom,listTpl) {
+require(["utils/doc_events","utils/ajax","utils/selectors","text!templates/list.html", "utils/underscore","utils/doc_ready"], function(events, ajaz, dom,listTpl) {
     var onwardList = dom.get("#tripOnwards li"),
         returnList = dom.get("#tripReturn li");
 
-        ajaz.makeGetRequest("results.json", function(data){
+        ajaz.Get("results.json", function(data){
         var results = JSON.parse(data);
         dom.get("#tripOnwards").innerHTML = _.template(listTpl, results.air_search_result.onward_solutions);
         dom.get("#tripReturn").innerHTML = _.template(listTpl, results.air_search_result.return_solutions);
     });
     
-        Ready.check(function() {
+        Doc_Ready.doc_check(function() {
         var filter = dom.get('.pillButton'),
             resultsDiv = dom.get("#display"),
             filterDiv = dom.get('#filter'),
@@ -48,7 +49,7 @@ require(["utils/script","utils/ajax","utils/selectors","text!templates/list.html
         initPage = function(){
             dom.addClass([onwardList[0],returnList[0]],"selected");
             calculateTotal();
-            script.on([onwardList,returnList] ,"click",toggleSelected);
+            events.on([onwardList,returnList] ,"click",toggleSelected);
         },
         toggleSort = function(){
             dom.sortList(this.parentNode.parentNode.getElementsByTagName("ul")[0],defaultSort);
@@ -60,8 +61,8 @@ require(["utils/script","utils/ajax","utils/selectors","text!templates/list.html
 
         initPage();
 
-        script.click(filter,toggleDisplay);
-        script.on(dom.get('.sorts a') ,"click",toggleSort);
+        events.click(filter,toggleDisplay);
+        events.on(dom.get('.sorts a') ,"click",toggleSort);
         
     });
 });
